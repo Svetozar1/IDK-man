@@ -1,13 +1,10 @@
 ---
-title:  "spotify"
+title:  "Spotify"
 date:   2019-04-09
 ---
-You’ll find this post in your `content/post` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command `hugo server`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `content/post` directory that follows the convention `name-of-post.md` and includes the necessary front matter. You can even create it with command `hugo new post/name-of-post.md` (you need to be at site's root folder). Take a look at the source for this post to get an idea about how it works.
-
-When you want to publish an article, simply remove `draft: true` from it's front matter.
-
+Spotify je přední světová služba, která nabízí streamování či podcasting hudby od vybraných vydavatelství jako jsou Sony, EMI, Warner Music Group a Universal. Společnost Spotify Ltd. byla založena v dubnu 2006 ve Švédsku, sídlo má ve Stockholmu. Dva roky nato, 7. října 2008, vznikla stejnojmenná služba. Služba je dostupná v západní Evropě, většině Severní a Jižní Ameriky a v Oceánii. V červnu 2016 měla přes 100 milionů uživatelů a v lednu 2018 měla 70 milionů platících uživatelů.
+*** Proč právě embedovaná tato písnička?
+Při dělání tohoto úkoli poslouchám tuto písničku na spotify a právě proto jsem se rozhodl embedovat právě ji.
 <iframe src="https://open.spotify.com/embed/track/5PUawWFG1oIS2NwEcyHaCr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ## What's next?
 
