@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hudba
 ---
 
 # Hello World! (It works!)
