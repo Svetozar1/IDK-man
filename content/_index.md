@@ -1,27 +1,17 @@
 ---
-title: Hudba
+title: Generátor D&D postav
 ---
 
-# HEYHEYHEY! HUDBA!
+**Mým cílem je vytvořit nástroj na tvorbu postav do Dungeons & Dragons v českém jazyce. Jednoduchý nástroj na základě zvolených nebo náhodně vygenerovaných elementů vytvoří hotovou postavu.**
 
-This are the contents of the Hugo start website front page.
+Hra Dungeons & Dragons je hra na hrdiny, kterou bychom mohli přirovnat k Dračímu doupěti. Pro nové hráče, kteří nemají Dungeons & Dragons až tak moc nahrané, může být složité vytvořit si novou postavu. A to především pro nepřehledné množství vzájemně se ovlivňujících atributů a z nich vyplývajících statistik.
 
-## Something to read: Sonnet LXVI.
+Dungeons & Dragons není v česku po jazykové stránce zas tak moc rozšířená. V angličtině již generátory postav jsou (viz. zdroj), v češtině ovšem ne. 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Myslím, že tento nástroj by mohli ocenit začínající hráči, lidé s horší angličtinou pro tvorbu svých postav a také pánové jeskyně pro tvorbu obyčejnýc NPC (non-player character).
 
+
+Zdroj: <br>
+https://www.dndbeyond.com <br>
+https://cs.wikipedia.org/wiki/Dungeons_%26_Dragons <br>
+http://www.orcpub.com/
